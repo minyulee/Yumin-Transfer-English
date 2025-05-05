@@ -61,7 +61,7 @@
 
 주격보어는 생략해도 문장 가능
 
-###prove의 2형식 빈출
+### prove의 2형식 빈출
 *2형식과 5형식 수동형의 prove의 의미차이 알아두기
 - **3형식**: He proved the theory.
 - **5형식**: He proved the theory wrong.
