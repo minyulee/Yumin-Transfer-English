@@ -3,7 +3,7 @@
 ## Chapter 01. 문장형식과 동사 (1)
 - 001. 1형식: 타동사 오해 자동사
 <details>
-<summary>세부 설명 보기</summary>
+<summary>show more</summary>
 
 #### 📌 개념 요약
 - **자동사**: 목적어 없이 문장을 완성할 수 있는 동사.
