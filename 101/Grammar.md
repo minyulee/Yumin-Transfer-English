@@ -2,7 +2,7 @@
 
 ## Chapter 01. 문장형식과 동사 (1)
 - 001. 1형식: 타동사 오해 자동사
-  2. <details>
+<details>
 <summary>세부 설명 보기</summary>
 
 #### 📌 개념 요약
