@@ -47,6 +47,27 @@
 </details>
 
 - 002. 2형식: 유사보어
+     <details>
+<summary>View details</summary>
+
+## 유사보어 관련 내용
+
+### 예시
+- He was born poorly.  
+  -> He was born poor.
+
+주격보어를 생략해도 문장 가능
+
+### 2형식과 5형식 수동형의 prove의 의미차이 알아두기
+
+- **3형식**: He proved the theory.
+- **5형식**: He proved the theory wrong.
+- **5형식 (수동)**: The theory was proven wrong by him.  
+  (그에 의해 이론이 틀렸음을 입증당했다)
+- **2형식**: The theory proved wrong.  
+  (그 이론은 틀렸음을 스스로 증명했다)  
+  (prove 2형식 빈출)
+
 - 003. 3형식: 자동사 오해 타동사
 - 004. 3형식: 유사형태 자/타동사
 
