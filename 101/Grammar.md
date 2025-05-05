@@ -47,7 +47,7 @@
 </details>
 
 - 002. 2형식: 유사보어
-     <details>
+<details>
 <summary>View details</summary>
 
 ## 유사보어 관련 내용
