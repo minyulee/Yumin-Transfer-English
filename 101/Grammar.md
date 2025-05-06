@@ -95,7 +95,8 @@
 - **5형식 (수동)**: The theory was proven wrong by him.  
   (그에 의해 이론이 틀렸음을 입증당했다)
 - **2형식**: The theory proved wrong.  
-  (그 이론은 틀렸음을 스스로 증명했다)  
+  (그 이론은 틀렸음을 스스로 증명했다)
+  </details> 
 
 
 - 003. 3형식: 자동사 오해 타동사
