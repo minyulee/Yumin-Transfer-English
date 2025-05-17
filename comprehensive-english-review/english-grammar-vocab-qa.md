@@ -89,7 +89,7 @@
 ---
 </details>
 
-##자주 출제되는 포인트
+## 자주 출제되는 포인트
 <details>
 <summary>###자주 출제되는 포인트/summary>
 
