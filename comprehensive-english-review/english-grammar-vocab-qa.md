@@ -33,6 +33,26 @@
 ---
 </details>
 
+<details>
+<summary>##3형식 vs 5형식 비교</summary>
+
+
+| 구분          | 3형식                          | 5형식                                   |
+| ------------- | ------------------------------ | --------------------------------------- |
+| 기본 구조     | S + V + O                      | S + V + O + O.C                         |
+| 목적격 보어   | 없음                          | 있음 (동사원형, 현재분사, 형용사 등)    |
+| 동사 예시    | say, know, explain 등           | make, let, hear, see, watch, help 등    |
+| 예문         | I know he left early.          | I heard him leave.                      |
+
+> **암기 포인트:**  
+> - 동사 뒤에 that절(S+V)이 오면 3형식  
+> - 동사 뒤에 목적어 + 동사원형/분사 형태가 오면 5형식  
+> - 지각동사(hear, see, watch)와 사역동사(make, let)는 주로 5형식 구조를 취함
+
+---
+</details>
+
+
 ## 문제 풀이
 <details>
 <summary>### 문제 1</summary>
@@ -49,30 +69,6 @@
 
 ---
 </details>
-
-## 3형식 vs 5형식 비교 / heard + 목적어 + 동사 형태 
-
-
-
-###3형식 vs 5형식 비교
-<details>
-<summary>### Quick Check: 3형식 vs 5형식 구분법</summary>
-
-
-| 구분          | 3형식                          | 5형식                                   |
-| ------------- | ------------------------------ | --------------------------------------- |
-| 기본 구조     | S + V + O                      | S + V + O + O.C                         |
-| 목적격 보어   | 없음                          | 있음 (동사원형, 현재분사, 형용사 등)    |
-| 동사 예시    | say, know, explain 등           | make, let, hear, see, watch, help 등    |
-| 예문         | I know he left early.          | I heard him leave.                      |
-
-> **암기 포인트:**  
-> - 동사 뒤에 that절(S+V)이 오면 3형식  
-> - 동사 뒤에 목적어 + 동사원형/분사 형태가 오면 5형식  
-> - 지각동사(hear, see, watch)와 사역동사(make, let)는 주로 5형식 구조를 취함
-
----
-
 
 ## heard + 목적어 + 동사 형태
 <details>
@@ -95,7 +91,7 @@
 
 
 <details>
-<summary>### 자주 출제되는 포인트/summary>
+<summary>##자주 출제되는 포인트/summary>
 
 - 지각동사/사역동사의 3형식 vs 5형식 구분 문제  
 - 목적어 뒤 동사 형태(원형/분사/과거형)의 올바른 사용  
