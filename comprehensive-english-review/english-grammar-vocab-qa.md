@@ -14,7 +14,7 @@
 
 ## 문법 포인트
 <details>
-<summary>### combine — 자동사 vs 타동사</summary>
+<summary>combine — 자동사 vs 타동사</summary>
 
 **combine**
 
@@ -34,7 +34,7 @@
 </details>
 
 <details>
-<summary>##3형식 vs 5형식 비교</summary>
+<summary>3형식 vs 5형식 비교</summary>
 
 
 | 구분          | 3형식                          | 5형식                                   |
@@ -55,7 +55,7 @@
 
 ## 문제 풀이
 <details>
-<summary>### 문제 1</summary>
+<summary>문제 1</summary>
 
 > To see so much power ②combining with such lack ④of foresight is really disquieting for us Europeans.
 
@@ -91,7 +91,7 @@
 
 ## 자주 출제되는 포인트
 <details>
-<summary>G2/summary>
+<summary>G2</summary>
 
 - 지각동사/사역동사의 3형식 vs 5형식 구분 문제  
 - 목적어 뒤 동사 형태(원형/분사/과거형)의 올바른 사용  
