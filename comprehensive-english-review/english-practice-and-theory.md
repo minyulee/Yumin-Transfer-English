@@ -19,7 +19,7 @@
 ## 1. 4형식과 5형식 + make 구조
 
 <details>
-<summary>1. 4형식과 5형식 + make 구조</summary>
+<summary>1. 4형식과 5형식</summary>
 
 ### 1) 개념 요약
 > **4형식**: S + V + 간접목적어 + 직접목적어  
@@ -60,6 +60,12 @@
 | They elected **him** **president**.| 5형식   | ‘him’을 ‘president’로 선출 (목적보어)         |
 
 ---
+</details>  
+
+
+
+<details>
+<summary>4. make + 목적어 + 목적보어 구조 정리</summary>
 
 ## 4. make + 목적어 + 목적보어 구조 정리
 
@@ -100,6 +106,10 @@
 - 어떤 **행동을 하게 만들고 싶으면** → **동사원형**
 
 ---
+</details>  
+
+<details>
+<summary>6. 문제 풀이 예시</summary>
 
 ## 6. 문제 풀이 예시
 
