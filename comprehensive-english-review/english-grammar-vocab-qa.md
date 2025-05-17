@@ -5,6 +5,8 @@
 1. [문법 포인트](#문법-포인트)  
    1.1 [combine — 자동사 vs 타동사](#combine--자동사-vs-타동사)  
    1.2 [3형식 vs 5형식 비교](#3형식-vs-5형식-비교)  
+   1.3 [동사 + A + to do 구조](#동사--a--to-do-구조)  
+   1.4 [동사 + A + from doing 구조](#동사--a--from-doing-구조)  
 2. [문제 풀이](#문제-풀이)  
    2.1 [문제 1: combined vs combining](#문제-1-combined-vs-combining)  
    2.2 [문제 2: heard + 목적어 + 동사 형태](#문제-2-heard--목적어--동사-형태)  
@@ -53,6 +55,56 @@
 > - 동사 뒤에 that절(S+V)이 오면 3형식  
 > - 동사 뒤에 목적어 + 동사원형/분사 형태가 오면 5형식  
 > - 지각동사(hear, see, watch)와 사역동사(make, let)는 주로 5형식 구조를 취함
+
+</details>
+
+---
+
+### 동사 + A + to do 구조
+
+<details>
+<summary>접기/펼치기</summary>
+
+다음과 같은 동사들은 **5형식** 문장에서 **목적어 + to부정사**를 목적격 보어로 취한다.
+
+| 동사 | 의미 |
+|------|------|
+| **want** | A가 ~하기를 원하다 |
+| **forbid** | A가 ~하는 것을 금지하다 |
+
+#### 예문:
+- I want **you to be** happy.  
+- They forbade **us to enter** the building.  
+  (※ ‘forbid’은 전통적으로 ‘to부정사’를 취함)
+
+> **암기 팁:** want / ask / tell / allow / force / forbid 등은 **to부정사**를 목적격 보어로 취하는 5형식 구조!
+
+</details>
+
+---
+
+### 동사 + A + from doing 구조
+
+<details>
+<summary>접기/펼치기</summary>
+
+아래 동사들은 **목적어(A)** 뒤에 **from + 동명사(doing)** 형태를 목적어 보어처럼 취하여 **금지/방지**의 의미를 나타냄.
+
+| 동사 | 의미 |
+|------|------|
+| **keep** | A가 ~하지 못하게 하다 |
+| **stop** | A가 ~하는 것을 막다 |
+| **prevent** | A가 ~하지 못하게 막다 |
+| **prohibit** | A가 ~하는 것을 금지하다 |
+
+#### 예문:
+- The rain kept **us from going** out.  
+- They stopped **him from making** a mistake.  
+- She prevented **me from talking**.  
+- The rule prohibits **people from smoking** here.
+
+> **암기 팁:** **keep / stop / prevent / prohibit** + A + **from -ing**  
+> → "A가 ~하지 못하게 하다" 구조로 자주 출제됨!
 
 </details>
 
@@ -109,6 +161,8 @@
 - 지각동사/사역동사의 3형식 vs 5형식 구분 문제  
 - 목적어 뒤 동사 형태(원형/분사/과거형)의 올바른 사용  
 - 동명사 vs 과거분사 구분 문제 (ex. combining vs combined)  
-- 자동사 vs 타동사에 따라 문장 구조가 달라지는 문제 (ex. combine)
+- 자동사 vs 타동사에 따라 문장 구조가 달라지는 문제 (ex. combine)  
+- 동사 + 목적어 + to부정사 구조 (ex. want A to do)  
+- 동사 + 목적어 + from -ing 구조 (ex. keep A from doing)
 
 </details>
