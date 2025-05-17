@@ -18,6 +18,9 @@
 
 ## 1. 4형식과 5형식 + make 구조
 
+<details>
+<summary>1. 4형식과 5형식 + make 구조</summary>
+
 ### 1) 개념 요약
 > **4형식**: S + V + 간접목적어 + 직접목적어  
 > **5형식**: S + V + 목적어 + 목적보어 (형용사, 동사원형 등)
@@ -112,3 +115,4 @@ you'll make your grandmother ______.
 - 답: **③ complain**
 
 ---
+</details>  
