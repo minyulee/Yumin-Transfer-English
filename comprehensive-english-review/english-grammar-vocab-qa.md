@@ -3,18 +3,21 @@
 ## 목차
 
 1. [문법 포인트](#문법-포인트)  
-   1.1 [combine — 자동사 vs 타동사](#combine-—-자동사-vs-타동사)
-   <br> 1.2 [3형식 vs 5형식 비교](#3형식-vs-5형식-비교)
+   1.1 [combine — 자동사 vs 타동사](#combine--자동사-vs-타동사)  
+   1.2 [3형식 vs 5형식 비교](#3형식-vs-5형식-비교)  
 2. [문제 풀이](#문제-풀이)  
-   2.1 [문제 1: combined vs combining](#문제-1)  
-   2.2 [문제 2: heard + 목적어 + 동사 형태](#문제-2)  
-3. [자주 출제되는 포인트](#자주-출제되는-포인트)  
+   2.1 [문제 1: combined vs combining](#문제-1-combined-vs-combining)  
+   2.2 [문제 2: heard + 목적어 + 동사 형태](#문제-2-heard--목적어--동사-형태)  
+3. [자주 출제되는 포인트](#자주-출제되는-포인트)
 
 ---
 
 ## 문법 포인트
+
+### combine — 자동사 vs 타동사
+
 <details>
-<summary>combine — 자동사 vs 타동사</summary>
+<summary>접기/펼치기</summary>
 
 **combine**
 
@@ -30,12 +33,14 @@
 > 타동사일 경우: combine A and B / combine A with B  
 > **문맥에 따라 자동사와 타동사 모두 가능하지만 구조가 다르므로 주의!**
 
----
 </details>
 
-<details>
-<summary>3형식 vs 5형식 비교</summary>
+---
 
+### 3형식 vs 5형식 비교
+
+<details>
+<summary>접기/펼치기</summary>
 
 | 구분          | 3형식                          | 5형식                                   |
 | ------------- | ------------------------------ | --------------------------------------- |
@@ -49,13 +54,16 @@
 > - 동사 뒤에 목적어 + 동사원형/분사 형태가 오면 5형식  
 > - 지각동사(hear, see, watch)와 사역동사(make, let)는 주로 5형식 구조를 취함
 
----
 </details>
 
+---
 
 ## 문제 풀이
+
+### 문제 1: combined vs combining
+
 <details>
-<summary>문제 1</summary>
+<summary>접기/펼치기</summary>
 
 > To see so much power ②combining with such lack ④of foresight is really disquieting for us Europeans.
 
@@ -67,12 +75,15 @@
 **전체 해석:**  
 그렇게 엄청난 권력이 그렇게 앞을 내다보지 못하는 것과 결합되어 있다는 것을 보는 것은 우리 유럽인들에게는 매우 불안한 일이다.
 
----
 </details>
 
-## heard + 목적어 + 동사 형태
+---
+
+### 문제 2: heard + 목적어 + 동사 형태
+
 <details>
-<summary>문제 2</summary>
+<summary>접기/펼치기</summary>
+
 > Last night ①while I was trying ②to fall asleep, I heard ③the people in the next apartment ④sang and laugh.
 
 **오답 위치:** ④ sang and laugh  
@@ -86,12 +97,14 @@
 - I heard them **sing** and **laugh**. (원형)  
 - I heard them **singing** and **laughing**. (현재분사)
 
----
 </details>
 
+---
+
 ## 자주 출제되는 포인트
+
 <details>
-<summary>G2</summary>
+<summary>접기/펼치기</summary>
 
 - 지각동사/사역동사의 3형식 vs 5형식 구분 문제  
 - 목적어 뒤 동사 형태(원형/분사/과거형)의 올바른 사용  
