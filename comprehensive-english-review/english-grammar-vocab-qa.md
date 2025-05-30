@@ -6,7 +6,7 @@
    1.1 [combine — 자동사 vs 타동사](#combine--자동사-vs-타동사)  
    1.2 [3형식 vs 5형식 비교](#3형식-vs-5형식-비교)  
    1.3 [동사 + A + to do 구조](#동사--a--to-do-구조)  
-   1.4 [동사 + A + from doing 구조](#동사--a--from-doing-구조)
+   1.4 [동사 + A + from doing 구조](#동사--a--from-doing-구조)  
    1.5 [관계절 축약 vs 분사구문 vs with + 분사 구문](#관계절-축약-vs-분사구문-vs-with--분사-구문)
 3. [문제 풀이](#문제-풀이)  
    2.1 [문제 1: combined vs combining](#문제-1-combined-vs-combining)  
@@ -157,7 +157,7 @@
 | with + 분사 | *(with + 명사 + 상태)* | 눈 감은 채, 팔짱 낀 채 등 |
 
 </details>
----
+
 
 ## 문제 풀이
 
