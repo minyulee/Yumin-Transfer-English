@@ -171,12 +171,11 @@ _______ to ship the new line of sweaters.
 
 # 3. 4형식 동사의 수동태 전환 & 빈출 예문 정리
 <details>
-✅ 1. 개념 정리: 4형식 수동태 구조 변화
-
+<summary>✅ 1. 개념 정리: 4형식 수동태 구조 변화</summary>
 **4형식 문장 구조 (S + V + IO + DO)**  
 → 수동태로 바꿀 때, **간접목적어(IO)** 또는 **직접목적어(DO)** 중 하나를 주어로 올 수 있음.
 
-📍 2) 예시 
+**📍 2) 예시 **
 ```
 She gave me a book.  
 → I was given a book. (간접목적어 "me"가 주어)  
@@ -185,7 +184,7 @@ She gave me a book.
 
 > 동사 뒤에 **"남은 목적어"**가 온다고 해도 틀린 문장은 아님!  
 > 이는 **4형식의 자연스러운 수동태 전환 구조**임.
-</details>
+
 ---
 
 ## ✅ 2. 구조 변화 요약표
@@ -197,8 +196,9 @@ She gave me a book.
 | He showed **me** a photo. | I was shown **a photo**. | A photo was shown **to me**. |
 
 ---
-
-## ✅ 3. 토익/편입 자주 나오는 4형식 동사 수동태 예문
+</details>
+<details>
+<summary> ✅ 3. 토익/편입 자주 나오는 4형식 동사 수동태 예문</summary>
 
 <details>
 <summary><strong>예문 펼치기 🔽</strong></summary>
@@ -269,7 +269,7 @@ She gave me a book.
 - ✅ **offer / award / grant**: 토익 업무문서, 공지문, 수상내용 자주 출제
 - ✅ 수동태 문장은 **Part 5 문법 / Part 7 독해 모두 출제 포인트**
 ---
-
+</details >
 ## 🚧 다음 단원: to부정사 vs 동명사 (작성 중…)
 
 - 계획 중 구조:
