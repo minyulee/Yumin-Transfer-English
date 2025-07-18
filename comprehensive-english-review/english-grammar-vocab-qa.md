@@ -8,7 +8,8 @@
    1.3 [동사 + A + to do 구조](#동사--a--to-do-구조)  
    1.4 [동사 + A + from doing 구조](#동사--a--from-doing-구조)  
    1.5 [관계절 축약 vs 분사구문 vs with + 분사 구문](#관계절-축약-vs-분사구문-vs-with--분사-구문)  
-     1.6 [단수/복수 주어와 동사 수일치](#단수-복수-주어와-동사-수일치)
+   1.6 [단수/복수 주어와 동사 수일치](#단수-복수-주어와-동사-수일치)
+   1.7 [not until 구문 정리](#not-untill-구문-정리)
 3. [문제 풀이](#문제-풀이)  
    2.1 [문제 1: combined vs combining](#문제-1-combined-vs-combining)  
    2.2 [문제 2: heard + 목적어 + 동사 형태](#문제-2-heard--목적어--동사-형태)  
@@ -207,7 +208,7 @@
 <details>
 <summary><strong>접기/펼치기</strong></summary>
 
-### ✅ 단수 취급하는 표현들
+#### ✅ 단수 취급하는 표현들
 
 * **Everybody / Everyone / Someone / No one / Anybody / Nobody**
 
@@ -241,7 +242,7 @@
 
 ---
 
-### ✅ 복수 취급하는 표현들
+#### ✅ 복수 취급하는 표현들
 
 * **A number of + 복수명사**
 
@@ -258,7 +259,7 @@
 
 ---
 
-### ⚠️ 연결어에 따른 주어 일치 주의
+#### ⚠️ 연결어에 따른 주어 일치 주의
 
 * **A and B → 복수**
 
@@ -271,11 +272,86 @@
 
 ---
 
-### ✅ 예외: 관계절에서의 수 일치
+#### ✅ 예외: 관계절에서의 수 일치
 
 * **One of + 복수명사 + who/that + 복수동사**
 
   * ✔️ *One of the students who are good at math is Jane.*
+
+---
+
+</details>
+
+---
+### not untill 구문 정리
+
+<details>
+<summary><strong>접기/펼치기</strong></summary>
+
+#### 1. **Not until A, B**
+- 의미: **A가 되어서야 (비로소) B하다**
+- ⚠️ 주의: **도치구문**이 발생함 (B에서 도치됨)
+
+##### ✅ 예문
+> **Not until he apologized, did she forgive him.**  
+> → *그가 사과하고 나서야 그녀는 그를 용서했다.*
+
+> **Not until midnight, did the guests leave.**  
+> → *자정이 되어서야 손님들이 떠났다.*
+
+---
+
+#### 2. **It is not until A that B**
+- 의미: **A가 되어서야 (비로소) B하다**
+- 특징: **It은 가주어**, **That절이 진주어**
+- ⚠️ 도치 X (B는 정상어순)
+
+##### ✅ 예문
+> **It is not until he apologized that she forgave him.**  
+> → *그가 사과하고 나서야 그녀는 그를 용서했다.*
+
+> **It was not until midnight that the guests left.**  
+> → *자정이 되어서야 손님들이 떠났다.*
+
+---
+
+##### 📝 `that` → `when` 가능
+
+> **It was not until he explained everything _when_ I understood.**  
+> → *그가 모든 걸 설명하고 나서야 나는 이해했다.*  
+> (→ but 공식적 문어체에서는 **that** 선호)
+
+---
+
+#### 3. **Not A until B**
+- 의미: **B가 되고 나서야 A하다**
+- **해석 순서가 중요** — *뒤에서 앞으로 해석*
+
+##### ✅ 잘못된 해석 vs 올바른 해석
+
+> **She didn’t cry until she got home.**  
+> ❌ *그녀는 집에 갈 때까지 울었다.* (❌ 잘못된 해석)  
+> ✅ *그녀는 집에 가서야 울었다.* (⭕ 올바른 해석)
+
+---
+
+##### ✅ 추가 예문
+
+> **I didn’t realize the truth until he told me.**  
+> → *그가 말해줄 때까지 나는 진실을 몰랐다.*  
+> → *(= 그가 말해주고 나서야 진실을 알았다.)*
+
+> **He didn’t start studying until the night before the exam.**  
+> → *시험 전날 밤이 되어서야 그는 공부를 시작했다.*
+
+---
+
+📚 정리:
+| 형태 | 해석 | 도치 여부 |
+|------|------|-----------|
+| Not until A, B | A가 되어서야 B하다 | 도치 발생 |
+| It is not until A that B | A가 되어서야 B하다 | 도치 X |
+| Not A until B | B가 되고 나서야 A하다 | 해석 주의 필요 |
 
 ---
 
