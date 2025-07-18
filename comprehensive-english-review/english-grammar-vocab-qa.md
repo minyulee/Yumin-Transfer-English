@@ -8,6 +8,7 @@
    1.3 [동사 + A + to do 구조](#동사--a--to-do-구조)  
    1.4 [동사 + A + from doing 구조](#동사--a--from-doing-구조)  
    1.5 [관계절 축약 vs 분사구문 vs with + 분사 구문](#관계절-축약-vs-분사구문-vs-with--분사-구문)
+   1.6 [단수/복수 주어와 동사 수일치](#단수/복수-주어와-동사-수일치)
 3. [문제 풀이](#문제-풀이)  
    2.1 [문제 1: combined vs combining](#문제-1-combined-vs-combining)  
    2.2 [문제 2: heard + 목적어 + 동사 형태](#문제-2-heard--목적어--동사-형태)  
@@ -197,6 +198,86 @@
 **정답 예시:**  
 - I heard them **sing** and **laugh**. (원형)  
 - I heard them **singing** and **laughing**. (현재분사)
+
+</details>
+
+---
+### 단수/복수 주어와 동사 수일치
+
+<details>
+<summary><strong> 단수/복수 주어와 동사 일치 - 편입 빈출 정리</strong></summary>
+
+### ✅ 단수 취급하는 표현들
+
+* **Everybody / Everyone / Someone / No one / Anybody / Nobody**
+
+  * → 모두 단수로 취급
+  * ✔️ *Everybody is happy.*
+  * ✔️ *No one knows the answer.*
+
+* **Each / Every / Each of + 복수명사**
+
+  * ✔️ *Each of the students has a book.*
+  * ✔️ *Every child loves candy.*
+
+* **One of + 복수명사**
+
+  * ✔️ *One of the teachers is sick.*
+
+* **That절 / What절 / To부정사절 주어**
+
+  * ✔️ *What he said is true.*
+  * ✔️ *To travel alone is fun.*
+
+* **불가산명사 (항상 단수 취급)**
+
+  * advice, information, news, furniture, luggage, equipment, evidence 등
+  * ✔️ *This information is useful.*
+
+* **시간/거리/금액/무게 등 수치 표현**
+
+  * ✔️ *Ten years is a long time.*
+  * ✔️ *Three kilometers is far.*
+
+---
+
+### ✅ 복수 취급하는 표현들
+
+* **A number of + 복수명사**
+
+  * ✔️ *A number of students are late.*
+
+* **복수 명사 (형태가 s로 끝남)**
+
+  * ✔️ *Dogs are friendly animals.*
+
+* **Police / People / Cattle / Staff**
+
+  * 항상 복수 취급
+  * ✔️ *The police are investigating the case.*
+
+---
+
+### ⚠️ 연결어에 따른 주어 일치 주의
+
+* **A and B → 복수**
+
+  * ✔️ *Tom and Jerry are funny.*
+
+* **Either A or B / Neither A nor B → 가까운 주어에 일치**
+
+  * ✔️ *Either you or he is wrong.*
+  * ✔️ *Neither the teachers nor the principal was there.*
+
+---
+
+### ✅ 예외: 관계절에서의 수 일치
+
+* **One of + 복수명사 + who/that + 복수동사**
+
+  * ✔️ *One of the students who are good at math is Jane.*
+
+---
 
 </details>
 
