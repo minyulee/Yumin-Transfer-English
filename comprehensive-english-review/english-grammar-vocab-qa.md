@@ -8,7 +8,7 @@
    1.3 [동사 + A + to do 구조](#동사--a--to-do-구조)  
    1.4 [동사 + A + from doing 구조](#동사--a--from-doing-구조)  
    1.5 [관계절 축약 vs 분사구문 vs with + 분사 구문](#관계절-축약-vs-분사구문-vs-with--분사-구문)  
-   1.6 [단수/복수 주어와 동사 수일치](#단수-복수-주어와-동사-수일치)
+   1.6 [단수/복수 주어와 동사 수일치](#단수-복수-주어와-동사-수일치)  
    1.7 [not until 구문 정리](#not-untill-구문-정리)
 3. [문제 풀이](#문제-풀이)  
    2.1 [문제 1: combined vs combining](#문제-1-combined-vs-combining)  
