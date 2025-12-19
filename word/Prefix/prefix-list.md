@@ -64,7 +64,8 @@
 - **예시**:
   - **antecedent**: 선행사  
   - **antedate**: 날짜를 앞당기다  
-  - **antenatal**: 출생 전의  
+  - **antenatal**: 출생 전의
+  - **antediluvian**: 아주 구식인
 </details>
 
 <details>
@@ -75,7 +76,8 @@
 - **예시**:
   - **antibiotic**: 항생제  
   - **antifreeze**: 부동액  
-  - **antisocial**: 반사회적인  
+  - **antisocial**: 반사회적인
+  - **antithesis**: 반대
 </details>
 
 <details>
